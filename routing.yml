@@ -1,0 +1,3 @@
+potogantest_index:
+    path: /
+    defaults: { _controller: PotoganTestBundle:Index:index }
